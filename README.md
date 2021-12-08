@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thisira Sandawath</h1>
-<h3 align="center">A passionate frontend / backend developer from Green Line IT Team</h3>
+<h3 align="center">I’m a passionate frontend/backend developer and concept creator from Green Line IT Team. I see myself as a relentless problem-solver, and I’m always looking for a new challenge. I have designed applications to streamline sales and marketing activities for busy professionals. I would love to chat with anyone and respect their opinions and learn more.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisirasandawath&label=Profile%20views&color=0e75b6&style=flat" alt="thisirasandawath" /> </p>
 
