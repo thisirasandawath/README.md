@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thisirasandawath&label=Profile%20views&color=0e75b6&style=flat" alt="thisirasandawath" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thisirasandawath" alt="thisirasandawath" /></a> </p>
+<p align="left"> <a href="https://github.com/thisirasandawath"><img src="https://github-profile-trophy.vercel.app/?username=thisirasandawath" alt="thisirasandawath" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/thisira_97" target="blank"><img src="https://img.shields.io/twitter/follow/thisira_97?logo=twitter&style=for-the-badge" alt="thisira_97" /></a> </p>
 
