@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **PHP, Git, SQL, SAP, NodeJS**
 
-- 📫 How to reach me **contact@thisira.com**
+- 📫 How to reach me **contact@thisira.lk**
 
 - ⚡ Fun fact **I think I am very funny**
 
